@@ -15,6 +15,15 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 ## Project Instructions
 
+### Project Outcome
+
+- Achieved > 60% accuracy requirement with final model. Much better performance can be obtained by simple increasing
+number of epochs.
+- Designed an algorithm that performs as intended:
+  - If a human is detected, a similar looking dog breed is outputted.
+  - If a dog is detected, a dog breed is outputted.
+  - If nothing is detected, print out an error prompt.
+
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
@@ -114,3 +123,14 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+
+## LICENSE
+
+[Udacity LICENSE](LICENSE.txt)
+
+## Acknowledgements	
+
+This dataset was obtained from Kaggle's Housing Dataset:
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
